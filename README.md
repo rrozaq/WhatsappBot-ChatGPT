@@ -1,6 +1,6 @@
 # ChatGPT API <!-- omit in toc -->
 
-> Node.js client for the unofficial [ChatGPT](https://openai.com/blog/chatgpt/) API.
+> Node.js client for the unofficial [ChatGPT](https://openai.com/blog/chatgpt/) API and unofficial WhatsApp [Baileys](https://github.com/adiwajshing/Baileys/) API.
 
 ## Usage & Install
 
