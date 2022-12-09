@@ -4,6 +4,8 @@
 
 ## Usage & Install
 
+Make sure you have nodejs installed on your computer.
+
 ```bash
 1. Clone this repo
 2. run `npm install`
