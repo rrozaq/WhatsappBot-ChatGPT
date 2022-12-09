@@ -40,7 +40,6 @@ this is like login whatsapp on whatsapp web.
 This package is ESM-only. It supports:
 
 - Node.js >= 16.8
-  - If you need Node.js 14 support, use [`v1.4.0`](https://github.com/transitive-bullshit/chatgpt-api/releases/tag/v1.4.0)
 
 ## Credits
 
