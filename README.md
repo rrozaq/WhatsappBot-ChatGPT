@@ -44,4 +44,5 @@ This package is ESM-only. It supports:
 
 ## Credits
 
+- [Baileys ](https://github.com/adiwajshing/Baileys) for creating [Whatsapp Bot]([https://openai.com/blog/chatgpt/](https://github.com/adiwajshing/Baileys))
 - [OpenAI](https://openai.com) for creating [ChatGPT](https://openai.com/blog/chatgpt/) 🔥
