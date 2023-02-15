@@ -28,7 +28,7 @@ To get a key openapi:
 1. Go to https://openai.com/api and log in or sign up.
 2. Click Personal Profile.
 3. View API Keys
-4. Click Buttin Create New Secret Key
+4. Click Button Create New Secret Key
 then show popup modal API key generated, Copy the value and save it to your config.json file.
 
 ### Connect to Whatsapp
