@@ -9,7 +9,7 @@ Make sure you have nodejs installed on your computer.
 ```bash
 1. Clone this repo
 2. run `npm install`
-3. set `SessionToken` in config.json
+3. set `openaiKey` in config.json
 4. run:
 node index.js
 or
@@ -21,16 +21,15 @@ nodemon index.js
 > Per the official OpenAI Discord on December 7th, 2022: The ChatGPT servers are currently experiencing "exceptionally high demand," so some requests may slow d(https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503).
 
 
-### Session Tokens OpenAI
+### openaiKey OpenAI
 
-**This package requires a valid session token from ChatGPT to access it's unofficial REST API.**
+To get a key openapi:
 
-To get a session token:
-
-1. Go to https://chat.openai.com/chat and log in or sign up.
-2. Open dev tools.
-3. Open `Application` > `Cookies`.
-4. Copy the value for `__Secure-next-auth.session-token` and save it to your config.json file.
+1. Go to https://openai.com/api and log in or sign up.
+2. Click Personal Profile.
+3. View API Keys
+4. Click Buttin Create New Secret Key
+then show popup modal API key generated, Copy the value and save it to your config.json file.
 
 ### Connect to Whatsapp
 
