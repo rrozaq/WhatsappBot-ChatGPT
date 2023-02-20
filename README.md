@@ -43,6 +43,10 @@ This package is ESM-only. It supports:
 
 - Node.js >= 16.8
 
+## Testing
+You can try it on this number [+62857-0059-0347](https://wa.me/6285700590347?text=ping)
+write any message then the chatGPT bot will reply to it
+
 ## Credits
 
 - [Baileys ](https://github.com/adiwajshing/Baileys) for creating [Whatsapp Bot]([https://openai.com/blog/chatgpt/](https://github.com/adiwajshing/Baileys))
